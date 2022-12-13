@@ -11,4 +11,4 @@ Project is created with:
 * Visual Studio 2019
 * Immediate2D Drawing Framework: https://github.com/npiegdon/immediate2d
 ## Setup
-To run this project, download the project files in the Frogger directory to your machine and open it with Visual Studio.
+To run this project, download the project files in the Frogger directory to your machine and open them with Visual Studio.
