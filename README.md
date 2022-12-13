@@ -1,4 +1,8 @@
 # simple-frogger
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 ## General info
 A simplified object oriented clone of the game Frogger in C++
 ## Technologies
