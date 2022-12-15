@@ -1,4 +1,5 @@
 # simple-frogger
+A clone of the game Frogger made only with C++ and the Immediate2D Drawing Framework
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
